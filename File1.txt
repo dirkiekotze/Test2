@@ -3,3 +3,7 @@ initial File 1 Test in Master
 Additional Change
 
 Amended File 1.
+
+Change in Branch 2
+
+Additional Commit in branch v2.0
