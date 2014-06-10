@@ -7,3 +7,5 @@ Amended File 1.
 Change in Branch 2
 
 Additional Commit in branch v2.0
+
+Change for Remote repository.
